@@ -1,0 +1,1 @@
+# Sastodeal ecommerce clone made with Tailwindcss
